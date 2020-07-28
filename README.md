@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**lballabio/lballabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luigi Ballabio, co-founder and administrator of the open-source [QuantLib](https://www.quantlib.org/) project.
+I'm also the author of [Implementing QuantLib](https://leanpub.com/implementingquantlib) and [QuantLib Python Cookbook](https://leanpub.com/quantlibpythoncookbook), and I'm available for [training](https://www.implementingquantlib.com/p/training.html) on-site (in Europe and UK) or remote (anywhere).
 
-Here are some ideas to get you started:
+I blog at [https://www.implementingquantlib.com](https://www.implementingquantlib.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://leanpub.com/implementingquantlib">
+    <img alt="Cover of Implementing QuantLib" src="https://www.implementingquantlib.com/images/implementing.jpg">
+  </a>
+  <a href="https://leanpub.com/quantlibpythoncookbook">
+    <img alt="Cover of QuantLib Python Cookbook" src="https://www.implementingquantlib.com/images/cookbook.jpg">
+  </a>
+</p>
+
