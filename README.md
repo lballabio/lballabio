@@ -7,10 +7,9 @@ I blog at [https://www.implementingquantlib.com](https://www.implementingquantli
 
 <p align="center">
   <a href="https://leanpub.com/implementingquantlib">
-    <img alt="Cover of Implementing QuantLib" src="https://www.implementingquantlib.com/images/implementing.jpg">
+    <img alt="Cover of Implementing QuantLib" src="http://www.implementingquantlib.com/images/implementing.jpg">
   </a>
   <a href="https://leanpub.com/quantlibpythoncookbook">
     <img alt="Cover of QuantLib Python Cookbook" src="https://www.implementingquantlib.com/images/cookbook.jpg">
   </a>
 </p>
-
