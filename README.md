@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Luigi Ballabio, co-founder and administrator of the open-source [QuantLib](https://www.quantlib.org/) project.
+I'm Luigi Ballabio, co-founder and current maintainer of the open-source [QuantLib](https://www.quantlib.org/) project.
 I'm also the author of [Implementing QuantLib](https://getbook.at/implementingquantlib) and [QuantLib Python Cookbook](https://leanpub.com/quantlibpythoncookbook), and I'm available for [training](https://www.implementingquantlib.com/p/training.html) on-site (in Europe and UK) or remote (anywhere).
 
 I blog at [https://www.implementingquantlib.com](https://www.implementingquantlib.com).
